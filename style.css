@@ -1,0 +1,50 @@
+
+.special {
+    font-size: 20px;
+    padding-left:120px;
+    padding-right:120px;
+}
+body {
+    font-family: 'Caveat', cursive;
+    color:rgb(114, 84, 102);
+   text-align: center; 
+   background-image: url("https://i.pinimg.com/474x/fd/1c/b7/fd1cb7340e4ee9465d18fadea8f135c4.jpg");
+}
+h1, h2, h3 {
+    font-family: 'Dancing Script', cursive;
+}
+#img1 {
+    border-radius: 10px;
+}
+.fav {
+    border: solid;
+    border-color:mintcream;
+    width: 300px;
+    height: 300px;
+}
+.menu {
+   list-style: none;
+   position:fixed;
+   top:0px;
+   right: 30px;
+   z-index: index 999;
+   cursor: pointer;
+}
+.link {
+    display: inline;
+    background-color:rgb(254, 246, 251);
+    float:left;
+    padding-top:5px;
+    padding-left:9px;
+    padding-bottom:5px;
+    font-size:20px; 
+}
+
+a {
+    color:rgb(226, 186, 210);
+    text-decoration: none;
+}
+.header {
+    width: 700px;
+    height: 70px;
+}
